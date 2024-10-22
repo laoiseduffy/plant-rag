@@ -27,4 +27,15 @@ Example context: Take time to gently separate the stems of your String of Hearts
 - LLM: OpenAI
   - model: `gpt-4o-mini`
 
+## Working Examples
+
+![Screenshot 2024-10-22 at 21 18 26](https://github.com/user-attachments/assets/039202b5-9642-491e-b7d8-08a0f9c313d8)
+
+![Screenshot 2024-10-22 at 21 16 56](https://github.com/user-attachments/assets/716f1b08-a156-482f-8fff-28bb942052b1)
+
+![Screenshot 2024-10-22 at 21 11 17](https://github.com/user-attachments/assets/f968dee4-30f0-4152-8ef8-ef1a32843875)
+
+
+https://github.com/user-attachments/assets/70f3343e-55c7-4d4b-883c-f8ef89430360
+
 
